@@ -1,4 +1,4 @@
-package ma.ehei.sparkETL.model;
+package com.yogesh.sparkETL.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

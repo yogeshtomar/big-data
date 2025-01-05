@@ -1,7 +1,7 @@
-package ma.ehei.sparkETL.service;
+package com.yogesh.sparkETL.service;
 
-import ma.ehei.sparkETL.model.Employee;
-import ma.ehei.sparkETL.repository.EmployeeRepository;
+import com.yogesh.sparkETL.model.Employee;
+import com.yogesh.sparkETL.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

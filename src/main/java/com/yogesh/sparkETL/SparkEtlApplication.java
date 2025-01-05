@@ -1,8 +1,7 @@
-package ma.ehei.sparkETL;
+package com.yogesh.sparkETL;
 
-import ma.ehei.sparkETL.model.Employee;
-import ma.ehei.sparkETL.service.EmployeeService;
-import org.apache.spark.SparkContext;
+import com.yogesh.sparkETL.model.Employee;
+import com.yogesh.sparkETL.service.EmployeeService;
 import org.apache.spark.sql.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

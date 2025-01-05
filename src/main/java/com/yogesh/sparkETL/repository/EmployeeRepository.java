@@ -1,6 +1,6 @@
-package ma.ehei.sparkETL.repository;
+package com.yogesh.sparkETL.repository;
 
-import ma.ehei.sparkETL.model.Employee;
+import com.yogesh.sparkETL.model.Employee;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
